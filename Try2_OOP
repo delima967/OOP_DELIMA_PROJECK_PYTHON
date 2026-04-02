@@ -1,0 +1,2 @@
+print("Nama-Nama Guru RPL2!")
+print("DKK:Pak Idham"); print("B.Indo:Pak Arif"); print("PAI:Pak Lukman"); print("B.Inggris:Pak Pepen"); print("Ipas:Bu Siti"); print("Matematika:Bu Ipah"); print("PKN:Bu Dewi")
